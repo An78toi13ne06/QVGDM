@@ -7,8 +7,8 @@
     <ProjectGuid>{C9AB6E15-2B16-465B-939A-035142E89CDE}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>QVGDM</RootNamespace>
-    <AssemblyName>QVGDM</AssemblyName>
+    <RootNamespace>QVGDMServeur</RootNamespace>
+    <AssemblyName>QVGDMServeur</AssemblyName>
     <DefaultLanguage>fr-FR</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.16299.0</TargetPlatformVersion>

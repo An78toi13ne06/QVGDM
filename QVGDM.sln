@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVGDM", "QVGDM\QVGDM.csproj", "{C9AB6E15-2B16-465B-939A-035142E89CDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVGDMServeur", "QVGDM\QVGDMServeur.csproj", "{C9AB6E15-2B16-465B-939A-035142E89CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QVGDMClient", "QVGDMClient\QVGDMClient.csproj", "{B859CE9D-027D-4F66-A03C-4D624B6F1944}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,24 @@ Global
 		{C9AB6E15-2B16-465B-939A-035142E89CDE}.Release|x86.ActiveCfg = Release|x86
 		{C9AB6E15-2B16-465B-939A-035142E89CDE}.Release|x86.Build.0 = Release|x86
 		{C9AB6E15-2B16-465B-939A-035142E89CDE}.Release|x86.Deploy.0 = Release|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|ARM.Build.0 = Debug|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x64.ActiveCfg = Debug|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x64.Build.0 = Debug|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x64.Deploy.0 = Debug|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x86.ActiveCfg = Debug|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x86.Build.0 = Debug|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Debug|x86.Deploy.0 = Debug|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|ARM.ActiveCfg = Release|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|ARM.Build.0 = Release|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|ARM.Deploy.0 = Release|ARM
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x64.ActiveCfg = Release|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x64.Build.0 = Release|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x64.Deploy.0 = Release|x64
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x86.ActiveCfg = Release|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x86.Build.0 = Release|x86
+		{B859CE9D-027D-4F66-A03C-4D624B6F1944}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

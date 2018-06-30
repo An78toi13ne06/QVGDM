@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="QVGDMServeur.App"
+    x:Class="QVGDMClient.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:QVGDMServeur"
+    xmlns:local="using:QVGDMClient"
     RequestedTheme="Light">
 
 </Application>
